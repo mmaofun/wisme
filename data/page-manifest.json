@@ -1,0 +1,252 @@
+[
+  {
+    "file": "index.html",
+    "title": "AI, Digital Skills & Professional Training",
+    "description": "Professional AI and digital skills training for organisations, education solutions and practical programs for individuals."
+  },
+  {
+    "file": "programs.html",
+    "title": "Professional Learning Programs",
+    "description": "Explore eight practical programs in AI, data analytics, automation and digital productivity for professionals."
+  },
+  {
+    "file": "programs/ai-fundamentals.html",
+    "title": "AI Fundamentals for Professionals",
+    "description": "Understand what AI can do, where it falls short, and how it fits into everyday work."
+  },
+  {
+    "file": "programs/generative-ai-workplace.html",
+    "title": "Generative AI for the Workplace",
+    "description": "Apply generative AI to research, writing and everyday professional workflows."
+  },
+  {
+    "file": "programs/prompt-engineering.html",
+    "title": "Prompt Engineering & AI Productivity",
+    "description": "Give AI clearer instructions and build useful, repeatable prompting habits."
+  },
+  {
+    "file": "programs/ai-automation.html",
+    "title": "AI Automation for Business",
+    "description": "Identify suitable workflows for automation and plan the checks they need."
+  },
+  {
+    "file": "programs/data-analytics.html",
+    "title": "Data Analytics Fundamentals",
+    "description": "Turn business questions into useful analysis and clearly communicated findings."
+  },
+  {
+    "file": "programs/excel-business-analysis.html",
+    "title": "Excel & Business Data Analysis",
+    "description": "Organise, analyse and present business information with practical spreadsheet techniques."
+  },
+  {
+    "file": "programs/power-bi.html",
+    "title": "Power BI for Business",
+    "description": "Explore how to turn business data into clear, purposeful interactive reports."
+  },
+  {
+    "file": "programs/digital-productivity.html",
+    "title": "Digital Productivity & Automation",
+    "description": "Create more organised digital workflows and reduce unnecessary manual steps."
+  },
+  {
+    "file": "corporate-training.html",
+    "title": "Corporate AI & Digital Skills Training",
+    "description": "Tailored AI, data and digital skills training designed around your team’s roles, capabilities and organisational requirements."
+  },
+  {
+    "file": "education-solutions.html",
+    "title": "Curriculum, Content & Education Solutions",
+    "description": "Curriculum development, learning content, assessment design and training resources for organisations."
+  },
+  {
+    "file": "pricing.html",
+    "title": "Pricing & Engagement Options",
+    "description": "Explore pricing arrangements for individual programs, corporate training, education solutions and the future Digital Skills Academy."
+  },
+  {
+    "file": "about.html",
+    "title": "About Wisme Education",
+    "description": "Wisme Education focuses on practical AI, data and digital skills for professionals and organisational teams."
+  },
+  {
+    "file": "academy.html",
+    "title": "Wisme Digital Skills Academy",
+    "description": "Discover the upcoming Wisme Digital Skills Academy and enquire about ongoing professional learning."
+  },
+  {
+    "file": "insights.html",
+    "title": "Insights on AI, Data & Digital Skills",
+    "description": "Perspectives on AI, data, digital productivity and professional learning from Wisme Education."
+  },
+  {
+    "file": "faq.html",
+    "title": "Frequently Asked Questions",
+    "description": "Find answers about Wisme programs, corporate training, education solutions, pricing and the Academy."
+  },
+  {
+    "file": "contact.html",
+    "title": "Contact Wisme Education",
+    "description": "Discuss a learning program, corporate training requirement or education project with Wisme Education."
+  },
+  {
+    "file": "legal/index.html",
+    "title": "Policies & Information",
+    "description": "Find Wisme Education policies covering website use, privacy, refunds, complaints and accessibility."
+  },
+  {
+    "file": "legal/terms-and-conditions.html",
+    "title": "Terms & Conditions",
+    "description": "The general framework for program enquiries, professional learning engagements and education services."
+  },
+  {
+    "file": "legal/privacy-policy.html",
+    "title": "Privacy Policy",
+    "description": "How information is handled when you browse the website or prepare an enquiry."
+  },
+  {
+    "file": "legal/refund-cancellation-policy.html",
+    "title": "Refund & Cancellation Policy",
+    "description": "An overview of cancellations, changes and refunds for proposed learning and education engagements."
+  },
+  {
+    "file": "legal/website-terms.html",
+    "title": "Website Terms",
+    "description": "Conditions for using the Wisme Education website and its information."
+  },
+  {
+    "file": "legal/complaints-policy.html",
+    "title": "Complaints & Feedback",
+    "description": "A clear approach to raising a concern about a program, service or learning experience."
+  },
+  {
+    "file": "legal/accessibility.html",
+    "title": "Accessibility",
+    "description": "Wisme Education aims to make its website clear, readable and usable for a wide range of visitors."
+  },
+  {
+    "file": "legal/disclaimer.html",
+    "title": "Disclaimer",
+    "description": "Important context for the educational and technology information on this website."
+  },
+  {
+    "file": "legal/cookie-policy.html",
+    "title": "Cookies & Website Technology",
+    "description": "A straightforward explanation of the technologies used by this website."
+  },
+  {
+    "file": "404.html",
+    "title": "Page Not Found",
+    "description": "The page you are looking for could not be found. Explore Wisme Education programs and services."
+  },
+  {
+    "file": "corporate-training/ai-literacy.html",
+    "title": "AI Literacy for Organisations",
+    "description": "Establish a shared understanding of AI, its practical applications and the judgement required to use it responsibly."
+  },
+  {
+    "file": "corporate-training/generative-ai-productivity.html",
+    "title": "Generative AI & Workplace Productivity",
+    "description": "Develop a structured approach to AI-assisted writing, research, synthesis and routine professional tasks."
+  },
+  {
+    "file": "corporate-training/ai-for-managers.html",
+    "title": "AI Capability for Managers",
+    "description": "Support informed decisions about AI adoption, team readiness and appropriate operational oversight."
+  },
+  {
+    "file": "corporate-training/data-capability.html",
+    "title": "Data Capability for Teams",
+    "description": "Strengthen the way your people question, interpret and communicate business information."
+  },
+  {
+    "file": "corporate-training/workflow-automation.html",
+    "title": "Workflow Automation for Organisations",
+    "description": "Identify suitable processes for automation and plan the controls needed to make them dependable."
+  },
+  {
+    "file": "corporate-training/custom-programs.html",
+    "title": "Custom Learning Programs",
+    "description": "Bring several capabilities together in a learning program designed around your organisation’s requirements."
+  },
+  {
+    "file": "education-solutions/curriculum-development.html",
+    "title": "Curriculum Development",
+    "description": "Create a coherent learning pathway with clear outcomes, considered sequencing and a defined purpose."
+  },
+  {
+    "file": "education-solutions/learning-content.html",
+    "title": "Learning Content Development",
+    "description": "Develop clear instructional resources that support understanding, practice and confident facilitation."
+  },
+  {
+    "file": "education-solutions/assessment-design.html",
+    "title": "Assessment & Evaluation Design",
+    "description": "Develop knowledge checks and practical activities that align with the intended learning outcomes."
+  },
+  {
+    "file": "education-solutions/program-design.html",
+    "title": "Training Program Design",
+    "description": "Bring the learning structure, activities and resources together into a deliverable professional program."
+  },
+  {
+    "file": "education-solutions/content-licensing.html",
+    "title": "Educational Content Licensing",
+    "description": "Discuss permitted use of suitable Wisme learning materials within a clearly defined licensing arrangement."
+  },
+  {
+    "file": "subjects/artificial-intelligence.html",
+    "title": "Artificial Intelligence Programs",
+    "description": "Develop a practical understanding of AI and the skills to use it thoughtfully in professional work."
+  },
+  {
+    "file": "subjects/data-and-analytics.html",
+    "title": "Data & Analytics Programs",
+    "description": "Build analytical confidence and communicate business information with greater clarity."
+  },
+  {
+    "file": "subjects/automation.html",
+    "title": "Automation Programs",
+    "description": "Understand how tasks and tools can connect to support more consistent business processes."
+  },
+  {
+    "file": "subjects/digital-skills.html",
+    "title": "Digital Skills Programs",
+    "description": "Strengthen the everyday digital practices that support organised, collaborative professional work."
+  },
+  {
+    "file": "insights/preparing-a-training-brief.html",
+    "title": "How to prepare a corporate training brief",
+    "description": "A practical framework for describing your team, objectives and delivery requirements before requesting a proposal."
+  },
+  {
+    "file": "insights/choosing-ai-training.html",
+    "title": "Choosing AI training that fits your team",
+    "description": "Look beyond a tool demonstration and consider the audience, practical tasks and review habits your team needs."
+  },
+  {
+    "file": "insights/defining-learning-outcomes.html",
+    "title": "Defining useful learning outcomes",
+    "description": "Describe what participants should be able to do, then connect the content and activities to that purpose."
+  },
+  {
+    "file": "insights/planning-an-automation-pilot.html",
+    "title": "Planning a manageable automation pilot",
+    "description": "Start with one well-understood process, define responsibilities and test how exceptions will be handled."
+  },
+  {
+    "file": "how-we-work.html",
+    "title": "How We Work",
+    "description": "Our approach to scoping, designing and delivering professional learning and education engagements."
+  },
+  {
+    "file": "learning-approach.html",
+    "title": "Our Learning Approach",
+    "description": "A practical approach to professional learning: understand the concepts, apply them in context and reflect on the result."
+  },
+  {
+    "file": "for-individuals.html",
+    "title": "Professional Learning for Individuals",
+    "description": "Explore AI, data, automation and digital skills programs for your own professional development."
+  }
+]
