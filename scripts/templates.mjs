@@ -33,7 +33,7 @@ export function contactDetails({compact=false}={}) {
   const items = [
     business.email && ['Email', `<a href="mailto:${esc(business.email)}">${esc(business.email)}</a>`],
     business.phone && ['Telephone', `<a href="${esc(phoneURL(business.phone))}">${esc(business.phone)}</a>`],
-    !compact && business.address && ['Office address', esc(business.address)],
+    business.address && ['Office address', esc(business.address)],
   ].filter(Boolean);
   return items.length ? `<address class="business-contact${compact?' business-contact-compact':''}">${items.map(([label,value])=>`<div><span class="contact-label">${label}</span>${value}</div>`).join('')}</address>` : '';
 }
