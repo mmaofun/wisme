@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-30
+
+- Added the supplied Wisme email, telephone and Haymarket office address to the Contact page.
+- Added email and telephone links to the shared footer and enabled the enquiry email draft.
+- Kept contact details readable on navy backgrounds and across mobile layouts.
+
 ## 1.0.1 — 2026-09-29
 
 - Rebuilt the interior page templates around the approved Executive homepage design.
