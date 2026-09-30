@@ -47,7 +47,7 @@ Run `npm run build` after changing source content. Root HTML files and nested HT
 
 ### Business details
 
-Unset business details are `null` and omitted from public HTML. Edit public contact details in the `business` object in `data/content.js`, then rebuild. The email and telephone appear on the Contact page and in every footer; the office address appears on the Contact page. Australian telephone links use the international +61 format. A configured email address also enables an **Open email draft** action after enquiry review. Do not place credentials or private information in any content file.
+Unset business details are `null` and omitted from public HTML. Edit public contact details in the `business` object in `data/content.js`, then rebuild. The email, telephone and office address appear on the Contact page and in every footer. Australian telephone links use the international +61 format. A configured email address also enables an **Open email draft** action after enquiry review. Do not place credentials or private information in any content file.
 
 ### Pricing
 
