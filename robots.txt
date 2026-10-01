@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: 
-Sitemap: https://mmaofun.github.io/wisme/sitemap.xml
+Sitemap: https://wisme.com.au/sitemap.xml
