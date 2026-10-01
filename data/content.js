@@ -9,7 +9,7 @@ export const business = {
   stateOrTerritory: null, hours: null, privacyContact: null, complaintsContact: null,
   domain: 'https://mmaofun.github.io/wisme', social: {}, team: [],
   // Enable only after the business, offering and legal review is complete.
-  indexable: false, pricingApproved: false, legalReviewed: false,
+  indexable: true, pricingApproved: false, legalReviewed: false,
   gstLabel: null, cancellationWindow: null, refundTimeframe: null,
 };
 
