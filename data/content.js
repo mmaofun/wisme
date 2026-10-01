@@ -1,7 +1,7 @@
 // This file is the source of truth. Run `npm run build` after editing.
 // Null business facts are deliberately omitted from the generated website.
 export const business = {
-  name: 'Wisme Education', legalEntityName: null, ABN: null, ACN: null,
+  name: 'Wisme Education', legalEntityName: null, ABN: '62 614 658 025', ACN: null,
   email: 'Info@Wisme.com.au',
   phone: '0424 361 399',
   address: 'Unit 1233, 1 Steam Mill Lane, Haymarket NSW 2000',
